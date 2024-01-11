@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lntreter&label=Profile%20views&color=0e75b6&style=flat" alt="lntreter" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lntreter" alt="lntreter" /></a> </p>
+- I'm currently working on an automation program, which is focused on Zuken, called [*E3.Series*](https://github.com/lntreter/E3.Series-Circuit-Automation)
 
-- I'm currently working on an automation program, which is focused on Zuken, called *E3.Series*
-
-- 🌱 I’m currently learning *Test Programming*
+- 🌱 I’m currently learning *Test Programming* 
 
 - I'm trying to fix problems related to my latest project [Data-Security](https://github.com/lntreter/Data-Security)
 
