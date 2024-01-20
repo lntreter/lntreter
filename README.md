@@ -12,6 +12,7 @@
 - 💬 Ask me about *Linux and Distros*
 
 - 📫 How to reach me
+  bsahin02@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
